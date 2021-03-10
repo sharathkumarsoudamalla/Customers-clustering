@@ -1,9 +1,4 @@
-Hello,
-here you receive one file, that contains purchasing data of a shop.
-Whether it's online or offline is not important right now.
-Lets assume it's a garage for automotive vehicles.
-Data has been sufficiently anonymized that no conclusions to existing entities
-are possible.
+Cluster customer based on purchase details from online shop
 
 The content is the following:
   1. row i: Each row represents a customer
